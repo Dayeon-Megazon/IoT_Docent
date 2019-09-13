@@ -1,0 +1,205 @@
+<resources>
+    <string name="app_name">Docent</string>
+
+    <string name="title1">전시물 1</string>
+    <string name="place1">JYP NATION</string>
+    <string name="video1">jyp_ent</string>
+    <string name="text1">
+         JYP 엔터테인먼트는 엔터테인먼트 산업의 선진화와 세계화를 목표로 10년 이상 정상의 자리에서
+        쌓아온 컨텐츠 기획 및 제작, 연예인 메니지먼트, 신인개발 등의 노하우를 보유한 최고의 엔터테인먼트
+        회사입니다. \n\n
+        SK 텔레콤, NHN, Daum, NC소프트, 삼성전자 등 대기업들과 업무 제휴 경험을 바탕으로
+        JYP만의 남다른 노하우와 함께 세계 엔터테인먼트 산업을 선도해 나가고 있으며,
+        한국의 JYP 본사를 비롯한 JYP China, JYP Japan의 글로벌 네트워크를 통해 엔터테인먼트 컨텐츠 제작 및 판매에
+        새로운 패러다임을 제시하며 엔터테인먼트 산업의 귀감이 되고 있습니다. \n\n
+        또한 아시아 최고의 프로듀서인 박진영을 중심으로 원더걸스, 2PM, 2AM, miss A, GOT7등 모두가 사랑하는
+        최고의 아티스트를 발굴 및 배출하였으며, 시대를 앞서가는 음악과 아티스트 발굴을 위해 노력하고
+        엔터테인먼트 산업을 선도하는 업계의 리더로 자리매김하고 있습니다.
+    </string>
+
+
+    <string name="title2">전시물 2</string>
+    <string name="place2">프로듀서 박진영</string>
+    <string name="video2">jyp</string>
+    <string name="text2">
+         JYP 엔터테인먼트의 총괄 프로듀서로 아티스트 및 프로덕션, 영업 업무를 담당하고 있습니다. \n
+        박진영은 댄스가수로서 1994년 날 떠나지 마를 타이틀곡으로 한 1집으로 데뷔하였습니다. 그 이후로도 엘리베이터, 그녀는 예뻤다, 허니 등의 히트곡을 계속 내면서 가수로서 성공을 이루었습니다. \n\n
+        2000년대에는 본인의 음악 활동보다는 프로듀서로 활발하게 활동하였습니다. 원더걸스, 2PM, 2AM등 소속 아티스트들의 연이은 성공으로 프로듀서로서의 역량을 크게 인정받았습니다. \n\n
+        2019년 현재까지 프로듀서 및 가수로 활발하게 활동하고 있습니다. \n
+    </string>
+
+    <string name="title3">전시물 3</string>
+    <string name="place3">역대 JYP 아티스트</string>
+    <string name="video3">jyp_artist</string>
+    <string name="text3">
+
+         1. 박진영 - 난 여자가 있는데 [00:00]\n
+        2. 진주 - 난 괜찮아 [00:10]\n
+        3. 박지윤 - 성인식 [00:18]\n
+        4. god - 어머님께 [00:28]\n
+        5. 량현량하 - 학교를 안갔어 [00:39]\n
+        6. 비 - 태양을 피하는 방법 [00:53]\n
+        7. 별 - 12월 32일 [01:04]\n
+        8. 노을 - 청혼 [01:20]\n
+        9. 임정희 - Music is my life [01:34]\n
+        10. 원더걸스 - Tell Me [01:55]\n
+        11. JOO - 남자 때문에 [02:15]\n
+        12. 2AM - 죽어도 못 보내 [02:29]\n
+        13. 2PM - Heartbeat [02:42]\n
+        14. Miss A - Bad Girl Good Girl [02:56]\n
+        15. 백아연 - 이럴거면 그러지 말지 [03:11]\n
+        16. 15&amp; - Somebody [03:30]\n
+        17. GOT7 - 딱 좋아 [03:41]\n
+        18. 낙준 - Still (Feat. 15&amp; 박지민) [03:51]\n
+        19. 데이식스 - 좋아합니다 [04:03]\n
+        20. TWICE - KNOCK KNOCK [04:22]\n
+        21. 스트레이 키즈 - MIROH [04:38]\n
+        22. ITZY - 달라달라 [04:52]\n
+    </string>
+
+
+    <string name="title4">전시물 4</string>
+    <string name="place4">원더걸스</string>
+    <string name="video4">wonder</string>
+    <string name="text4">
+         원더걸스는 JYP 엔터테인먼트 최초의 아이돌그룹으로, Wonder의 단어 뜻 그대로 세상을 놀라게 하는 그룹이라는 뜻을 가지고 있습니다. \n
+        2007년 Irony로 데뷔한 후, Tell me, So, hot, Nobody 등의 히트곡을 탄생시키며 국민 걸그룹으로 자리매김하였습니다. 2009년에는 Nobody가 아시아 전역에서 큰 인기를 끌며 초반 케이팝 열풍의 선두에 섰습니다. \n\n
+        2016년, 멤버 전원의 전곡 작사, 작곡, 악기 녹음으로 완성한 Why so lonely로 음원 1위를 차지하며 아이돌 걸그룹을 넘어 셀프 프로듀싱 밴드로서 화려한 부활을 알렸습니다. \n\n
+        그 후, 데뷔 10주년인 2017년에 그려줘를 끝으로 원더걸스는 공식적으로 해체되었지만 멤버들은 솔로 가수, 배우 등으로 활발하게 활동중입니다. \n
+        \n
+        2007.02.13. 싱글 1집 《The Wonder Begins》 \n
+        2007.09.02. 정규 1집 《The Wonder Years》 \n
+        2008.06.03. 싱글 2집 《So Hot》 \n
+        2008.09.22. 싱글 3집 《Nobody: The Wonder Years – Trilogy》 \n
+        2010.05.16. 미니 1집 《2 Different Tears》 \n
+        2011.11.07. 정규 2집 《Wonder World》 \n
+        2012.06.03. 미니 2집 《Wonder Party》\n
+        2015.08.03. 정규 3집 《REBOOT》 \n
+        2016.07.05. 싱글 4집 《Why So Lonely》 \n
+        2017.02.10. 디지털 싱글 《그려줘》 \n
+        \n
+    </string>
+
+    <string name="title5">전시물 5</string>
+    <string name="place5">트와이스</string>
+    <string name="video5">twice</string>
+    <string name="text5">
+         TWICE는 눈으로 한 번, 귀로 한 번 감동을 준다는 의미로 2015년에 데뷔한 9인조 걸그룹입니다.
+        엠넷의 서바이벌 프로그램 SIXTEEN을 통해 나연, 정연, 모모, 사나, 지효, 미나, 다현, 채영, 쯔위가 선발되어 지금의 트와이스가 되었습니다. \n\n
+        트와이스는 2015년 데뷔곡 우아하게로 큰 인기를 끌며 2015년 데뷔한 신인 걸그룹의 데뷔 앨범 중에서 최고의 판매량을 기록하였으며, 2016년 11월, 우아하게는 역대 아이돌 데뷔곡 중 최초로 유튜브 뮤직비디오 조회수 1억을 달성하였습니다. \n\n
+        이후 발매하는 앨범마다 큰 성공을 거두며 대한민국을 대표하는 걸그룹으로 자리매김하였습니다.
+        더하여 일본과 동남아시아국가에서 큰 인기를 얻고 있는 글로벌 케이팝 그룹으로 국내와 국외를 오가며 활발하게 활동하고 있습니다. \n
+        \n
+        2015.10.20 미니 1집 《THE STORY BEGINS》\n
+        2016.04.25 미니 2집 《PAGE TWO》\n
+        2016.10.24 미니 3집 《TWICEcoaster : LANE 1》\n
+        2017.02.20 스페셜 1집 《TWICEcoaster : LANE 2》\n
+        2017.05.15 미니 4집 《SIGNAL》\n
+        2017.10.30 정규 1집 《twicetagram》\n
+        2017.12.11 정규 1집 리패키지 《Merry &amp; Happy》\n
+        2018.04.09 미니 5집 《What is Love?》\n
+        2018.07.09 스페셜 2집 《Summer Nights》\n
+        2018.11.05 미니 6집 《YES or YES》\n
+        2018.12.12 스페셜 3집 《The year of "YES"》\n
+        2019.04.22 미니 7집 《FANCY YOU》\n
+    </string>
+
+    <string name="title6">전시물 6</string>
+    <string name="place6">ITZY</string>
+    <string name="video6">itzy</string>
+    <string name="text6">
+         ITZY는 2019년 1월 21일에 데뷔한 5인조 걸그룹입니다.
+        그룹명은 있지라고 읽으며 너희가 원하는 거 전부 있지? 있지! 라는 뜻을 가지고 있습니다.
+        걸그룹 명가로 소문난 JYP에서 내놓은 만큼 ITZY는 데뷔 전부터 큰 주목을 받았습니다. \n\n
+        있지는 데뷔하자마자 2019년 슈퍼 루키로 떠올랐으며, 데뷔 5개월 만에 역대 최단 기간으로 신인상(MGMA 2019)을 수상했습니다.
+        데뷔곡인 달라달라의 뮤직비디오는 약 18시간만에 1000만 조회수를 돌파했으며, 24시간 조회수는 1400만회에 가까운 조회수로 이는 케이팝 그룹중 데뷔곡으로서는 1위라는 기록을 남겼습니다. \n
+        \n
+        2019. 02. 12 싱글 1집 《ITz Different》\n
+        2019. 07. 29 미니 앨범 1집 《ITz ICY》\n
+    </string>
+
+    <string name="title7">전시물 7</string>
+    <string name="place7">GOT7</string>
+    <string name="video7">got7</string>
+    <string name="text7">
+         GOT7은 2014년 1월 16일에 데뷔한 7인조 다국적 보이그룹으로, 행운을 가진 7명이라는 뜻을 가지고 있습니다.\n\n
+        갓세븐은 JYP가 처음으로 선보이는 힙합그룹이었습니다. 하지만 현재에는 힙합뿐만이 아닌 다양한 장르의 음악을 대중들에게 들려주고 있습니다.
+        또한 작사, 작곡이 가능한 멤버들이 있어, 다양한 음악적 색깔을 보여주고 있습니다.\n\n
+        갓세븐은 음악뿐만 아니라 마샬야츠 트릭킹이라고 하는 발차기, 터닝 동작 등 무술에 등장하는 요소와 비보잉의 스타일을 접목시킨 신선한 퍼포먼스로 주목받았습니다.\n\n
+        갓세븐은 멤버들의 국적이 다양한 만큼 한국뿐만 아니라 태국, 홍콩 등 해외에서 큰 사랑을 받고 있습니다.\n
+        \n
+        2014.01.20. 미니 1집 《Got it?》\n
+        2014.06.23. 미니 2집 《GOT♡》\n
+        2014.11.18. 정규 1집 《Identify》\n
+        2015.07.13. 미니 3집 《Just right》\n
+        2015.09.29. 미니 4집 《MAD》\n
+        2015.11.23. 리패키지 《MAD Winter Edition》\n
+        2016.03.21. 미니 5집 《Flight log : Departure》\n
+        2016.04.12. 싱글 《HOME RUN》\n
+        2016.09.27. 정규 2집 《Flight log : Turbulence》\n
+        2017.03.13. 미니 6집 《Flight log : Arrival》\n
+        2017.10.10. 미니 7집 《7 for 7》\n
+        2017.12.08. 리패키지 《7 for 7 Present Edition》\n
+        2018.03.12. 미니 8집 《Eyes On You》\n
+        2018.09.17. 정규 3집 《Present : YOU》\n
+        2018.12.03. 리패키지 《Present : YOU &amp;ME Edition》\n
+        2019.05.20. 미니 9집 《SPINNING TOP : BETWEEN SECURITY &amp; INSECURITY》\n
+    </string>
+
+    <string name="title8">전시물 8</string>
+    <string name="place8">DAY6</string>
+    <string name="video8">day6</string>
+    <string name="text8">
+         DAY6는 JYP엔터테인먼트의 아티스트 레이블인 Studio J 소속으로 2015년 9월 7일에 데뷔한 5인조 밴드 그룹입니다.
+        JYP에서 최초로 선보인 밴드그룹이기도 합니다.
+        DAY6는 일주일중 6일을 데이식스와 팬들이 함께 만들어가자는 의미를 담고 있습니다.\n\n
+        데이식스의 데뷔는 방송이 아닌 공연과 라디오 중심이었기 때문에 대중들에게 큰 주목을 받지는 못했지만 많은 평론가들에게 음악성을 인정받았습니다.\n\n
+        데뷔 이후 꾸준히 멤버들이 직접 작사, 작곡한 노래들이 발매되고 점점 대중들에게 이름이 알려지면서 믿고 듣는 데이식스라고 불리며 실력파 밴드로 인정받았습니다.\n
+        \n
+        2015.09.07. 미니 1집 《The Day》\n
+        2016.03.30 미니 2집 《DAYDREAM》\n
+        2017.01.06. 디지털 싱글 1집 《Every DAY6 January》\n
+        2017.02.06. 디지털 싱글 2집 《Every DAY6 February》\n
+        2017.03.06. 디지털 싱글 3집 《Every DAY6 March》\n
+        2017.04.06. 디지털 싱글 4집 《Every DAY6 April》\n
+        2017.05.08. 디지털 싱글 5집 《Every DAY6 May》\n
+        2017.06.07. 정규 1집 《SUNRISE》\n
+        2017.07.06. 디지털 싱글 6집 《Every DAY6 July》\n
+        2017.08.07. 디지털 싱글 7집 《Every DAY6 August》\n
+        2017.09.06. 디지털 싱글 8집 《Every DAY6 September》\n
+        2017.09.29. 디지털 싱글 9집 《Every DAY6 October》\n
+        2017.11.06. 디지털 싱글 10집 《Every DAY6 November》\n
+        2017.12.06. 정규 2집 《MOONRISE》\n
+        2018.06.26. 미니 3집 《Shoot Me : Youth Part 1》\n
+        2018.09.10. 디지털 싱글 11집 《Beautiful Feeling》\n
+        2018.12.10 미니 4집 《Remember Us : Youth Part 2》\n
+        2019.07.15 미니 5집 《The Book of Us : Gravity》\n
+    </string>
+
+    <string name="title9">전시물 9</string>
+    <string name="place9">StrayKids</string>
+    <string name="video9">straykids</string>
+    <string name="text9">
+         Straykids는 방황하는 아이들이라는 뜻으로 기존의 틀에서 벗어나 9명이 똘똘 뭉쳐 자신의 길을 찾아나가겠다는 포부를 가지고 있는 9인조 보이그룹입니다. \n\n
+        스트레이키즈의 가장 큰 특징은 JYP에서 최초로 연습생이 직접 기획하고 멤버들을 구성해서 만들어진 팀이라는 것입니다.
+        그룹 내에 프로듀싱팀인 3RACHA가 앨점 전곡을 거의 단독으로 작사, 작곡하는 자체 프로듀싱 그룹이며, 멤버 9명 전원이 작사 작곡에 참여하기도 합니다. \n\n
+        스트레이키즈는 JYP의 루키답게 데뷔 후 시상식에서 신인상을 휩쓸며 JYP의 차세대 보이그룹으로 자리매김하였습니다.
+        스트레이키즈 역시 선배그룹들과 같게 한국은 물론 해외에서 많은 사랑을 받고 있는 글로벌 케이팝 아이돌입니다.\n
+        \n
+        2017. 11. 01 프리 싱글 《Hellevator》\n
+        2018. 01. 08 프리 미니 《Mixtape》\n
+        2018. 03. 26 미니 1집 《I am NOT》\n
+        2018. 08. 06 미니 2집 《I am WHO》\n
+        2018. 10. 22 미니 3집 《I am YOU》\n
+        2019. 03. 25 미니 4집 《Clé 1 : MIROH》\n
+        2019. 06. 19 미니 5집 《Clé 2 : Yellow Wood》\n
+    </string>
+    <string name="title_activity_navigation_">Navigation_Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
