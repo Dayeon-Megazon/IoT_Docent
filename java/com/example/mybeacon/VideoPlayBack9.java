@@ -25,7 +25,7 @@ public class VideoPlayBack9 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.video_playback9);
-        setTitle("1 전시관 콘텐츠 화면");
+        setTitle("제 3 전시관 콘텐츠 화면");
 
         startButton = findViewById(R.id.start);
         stopButton = findViewById(R.id.stop);
