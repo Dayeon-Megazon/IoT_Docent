@@ -17,7 +17,6 @@
         엔터테인먼트 산업을 선도하는 업계의 리더로 자리매김하고 있습니다.
     </string>
 
-
     <string name="title2">전시물 2</string>
     <string name="place2">프로듀서 박진영</string>
     <string name="video2">jyp</string>
@@ -32,8 +31,9 @@
     <string name="place3">역대 JYP 아티스트</string>
     <string name="video3">jyp_artist</string>
     <string name="text3">
-
-         1. 박진영 - 난 여자가 있는데 [00:00]\n
+            역대 JYP 아티스트 목록입니다.\n
+        \n
+        1. 박진영 - 난 여자가 있는데 [00:00] \n
         2. 진주 - 난 괜찮아 [00:10]\n
         3. 박지윤 - 성인식 [00:18]\n
         4. god - 어머님께 [00:28]\n
@@ -57,13 +57,12 @@
         22. ITZY - 달라달라 [04:52]\n
     </string>
 
-
     <string name="title4">전시물 4</string>
     <string name="place4">원더걸스</string>
     <string name="video4">wonder</string>
     <string name="text4">
          원더걸스는 JYP 엔터테인먼트 최초의 아이돌그룹으로, Wonder의 단어 뜻 그대로 세상을 놀라게 하는 그룹이라는 뜻을 가지고 있습니다. \n
-        2007년 Irony로 데뷔한 후, Tell me, So, hot, Nobody 등의 히트곡을 탄생시키며 국민 걸그룹으로 자리매김하였습니다. 2009년에는 Nobody가 아시아 전역에서 큰 인기를 끌며 초반 케이팝 열풍의 선두에 섰습니다. \n\n
+        2007년 Irony로 데뷔한 후, Tell me, So hot, Nobody 등의 히트곡을 탄생시키며 국민 걸그룹으로 자리매김하였습니다. 2009년에는 Nobody가 아시아 전역에서 큰 인기를 끌며 초반 케이팝 열풍의 선두에 섰습니다. \n\n
         2016년, 멤버 전원의 전곡 작사, 작곡, 악기 녹음으로 완성한 Why so lonely로 음원 1위를 차지하며 아이돌 걸그룹을 넘어 셀프 프로듀싱 밴드로서 화려한 부활을 알렸습니다. \n\n
         그 후, 데뷔 10주년인 2017년에 그려줘를 끝으로 원더걸스는 공식적으로 해체되었지만 멤버들은 솔로 가수, 배우 등으로 활발하게 활동중입니다. \n
         \n

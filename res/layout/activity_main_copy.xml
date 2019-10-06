@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+
+    <LinearLayout
+        android:id="@+id/video1"
+        android:layout_width="match_parent"
+        android:layout_height="221dp"
+        android:clickable="true"
+        android:onClick="play"
+        android:orientation="vertical"
+        android:tag="1">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginEnd="8dp"
+                android:layout_weight="2"
+                android:src="@drawable/number1"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.485"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="170dp"
+                android:layout_height="39dp"
+                android:layout_marginStart="104dp"
+                android:layout_marginTop="48dp"
+                android:gravity="center"
+                android:text="제 1 전시관"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="29dp"
+                android:layout_marginStart="148dp"
+                android:layout_marginTop="84dp"
+                android:gravity="center"
+                android:text="JYP NATION"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/watch1"
+                android:layout_width="144dp"
+                android:layout_height="43dp"
+                android:layout_marginStart="116dp"
+                android:layout_marginTop="160dp"
+                android:background="@color/button"
+                android:gravity="center"
+                android:text="관람하기"
+                android:textColor="@color/white"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </android.support.constraint.ConstraintLayout>
+    </LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <LinearLayout
+        android:id="@+id/video2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:onClick="play"
+        android:orientation="vertical"
+        android:tag="2">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="385dp"
+            android:layout_height="245dp">
+
+            <ImageView
+                android:layout_width="385dp"
+                android:layout_height="284dp"
+                android:layout_weight="2"
+                android:src="@drawable/number2"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="1.0" />
+
+            <TextView
+                android:layout_width="170dp"
+                android:layout_height="39dp"
+                android:layout_marginStart="104dp"
+                android:layout_marginTop="48dp"
+                android:gravity="center"
+                android:text="제 2 전시관"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="29dp"
+                android:layout_marginStart="148dp"
+                android:layout_marginTop="84dp"
+                android:gravity="center"
+                android:text="여자 아티스트"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/watch2"
+                android:layout_width="144dp"
+                android:layout_height="43dp"
+                android:layout_marginStart="116dp"
+                android:layout_marginTop="160dp"
+                android:background="@color/button"
+                android:gravity="center"
+                android:text="관람하기"
+                android:textColor="@color/white"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </android.support.constraint.ConstraintLayout>
+    </LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <LinearLayout
+        android:id="@+id/video3"
+        android:layout_width="match_parent"
+        android:layout_height="238dp"
+        android:clickable="true"
+        android:onClick="play"
+        android:orientation="vertical"
+        android:tag="3">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="385dp"
+                android:layout_height="294dp"
+                android:layout_weight="2"
+                android:src="@drawable/number3"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="1.0" />
+
+            <TextView
+                android:layout_width="173dp"
+                android:layout_height="39dp"
+                android:layout_marginStart="104dp"
+                android:layout_marginTop="48dp"
+                android:gravity="center"
+                android:text="제 3 전시관"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="29dp"
+                android:layout_marginStart="148dp"
+                android:layout_marginTop="84dp"
+                android:gravity="center"
+                android:text="남자 아티스트"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/watch3"
+                android:layout_width="144dp"
+                android:layout_height="43dp"
+                android:layout_marginStart="116dp"
+                android:layout_marginTop="160dp"
+                android:background="@color/button"
+                android:gravity="center"
+                android:text="관람하기"
+                android:textColor="@color/white"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </android.support.constraint.ConstraintLayout>
+    </LinearLayout>
+</LinearLayout>
+
+
+
